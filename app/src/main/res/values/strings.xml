@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Department">Department:</string>
+    <string name="SIS">SIS</string>
+    <string name="CS">CS</string>
+    <string name="BIO">BIO</string>
+    <string name="Others">Others</string>
+    <string name="Submit">Submit</string>
+    <string name="mood">Your Current mood:</string>
+    <string name="Sinfo">Student Information</string>
+    <string name="Name1">Name:</string>
+    <string name="Email1">Email:</string>
+    <string name="mood1">mood:</string>
+    <string name="nulll" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">SAVE</string>
+    <string name="si">Student Information</string>
+</resources>
